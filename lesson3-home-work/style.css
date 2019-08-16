@@ -1,0 +1,64 @@
+/** {
+  margin:0px;
+  padding:0px;
+}*/
+.zag {text-align: center;
+margin: 70px 80px 20px 80px;}
+
+
+.tire {
+width:50px;
+  height: 2px;
+  background-color: #ff8d2d;
+  margin: auto;
+  }
+.desc {text-align: center;
+  margin: 20px 80px 40px 80px;}
+
+.block{
+  display: flex;
+  text-align: center;
+  padding: 0px 100px;
+}
+.god {
+  padding: 15px;
+  text-align: center;
+  margin:40px;
+
+}
+.tire2{
+  width:50px;
+  height: 1px;
+  margin: auto;
+  background-color: white;
+}
+.uioop {
+  opacity: 0.5;
+
+}
+
+
+.button{
+  text-align: center;
+  padding: 20px 30px;
+  border-style: solid;
+  border-color: white;
+  width: 200px;
+  color: white;
+  margin: auto;
+}
+
+.icon{
+  color: white;
+  opacity: 0.8;
+  letter-spacing: 15px;
+  height: 10px;
+
+}
+.mump {
+  background-color: black;
+  text-align: center;
+  color: white;
+  opacity: 0.5;
+  height: 4px;
+}
