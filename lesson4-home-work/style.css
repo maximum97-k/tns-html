@@ -148,6 +148,70 @@ margin: 70px 80px 20px 80px;
   font-family: Raleway sans-serif;
 
  }
+.zag5 {text-align: center;
+  margin: 70px 80px 20px 80px;
+  font-family: 'Raleway', sans-serif;
+
+}
+.section_5_p {
+  margin-bottom: 58px;
+}
+
+.section_5_bloki {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section_5_bloki_vse {
+  width: 272px;
+  height: 132px;
+  background-color: #f5f5f5;
+  text-align: left;
+  font-family: "Open Sans";
+  color: #86878b;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 40px;
+  margin-right: 30px;
+}
+
+.section_5_fotki {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  margin-left: 30px;
+}
+
+
+
+.section_5_fotki_vse3 {
+  display: flex;
+}
+
+.section_5_name {
+  padding-top: 20px;
+  font-family: "Open Sans";
+  font-size: 14px;
+  color: #a4a5a8;
+  padding-left: 5px;
+}
+
+.name_Jeremy {
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+}
+
+.section_5_colonka2 {
+  padding-right: 22px;
+}
+
+.section_5_colonka3 {
+  padding-right: 124px;
+}
+
+
 body{
   margin: 0 !important;
 }
