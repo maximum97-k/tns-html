@@ -10,6 +10,58 @@ padding: 0px 100px;
 
 
 }
+
+.tab{
+  padding: 50px 40px;
+  background-color: #262626;
+  color: white;
+  margin: 1px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.tab1{
+  padding: 50px 40px;
+  background-color: #ff8d2d;
+  color: white;
+  margin: 1px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.section_2{
+  display: flex;
+  background-color: #f5f5f5;
+  padding: 100px;
+}
+.text2 {
+  color: #8b8b8b;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+.ic {
+  margin: auto;
+}
+.zagol{
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+}
+.btnzlo{
+  padding: 15px 10px;
+  margin-top: 50px;
+  background-color: #ff8d2d;
+  color: white;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.5);
+  width: 100px;
+  text-align: center;
+}
+.textzlo{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .it {
   color: #ff8d2d;
   font-weight: 100;
@@ -55,7 +107,7 @@ background-image: url("img/lesson.png");
 }
 .icon1{
   margin-right: 30px;
-  font-size: 68px !important;
+  font-size: 40px !important;
   color: #cccccc;
   margin: auto;
 }
@@ -143,6 +195,7 @@ color: white}
   font-weight: 100;
 
 }
+
 .zag {text-align: center;
 margin: 70px 80px 20px 80px;
   font-family: Raleway sans-serif;
@@ -158,6 +211,9 @@ margin: 70px 80px 20px 80px;
 }
 
 .section_5_bloki {
+  margin:100px;
+}
+.section_5_bloki1 {
   display: flex;
   justify-content: space-between;
 }
@@ -187,14 +243,21 @@ margin: 70px 80px 20px 80px;
 
 .section_5_fotki_vse3 {
   display: flex;
-}
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 40px;
+  margin-right: 30px;
+  margin-top: 20px;}
 
 .section_5_name {
-  padding-top: 20px;
   font-family: "Open Sans";
   font-size: 14px;
   color: #a4a5a8;
-  padding-left: 5px;
+  padding-left: 15px;
+  margin: auto 0;
+}
+.sel5_text{
+  padding: 10px;
 }
 
 .name_Jeremy {
